@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Global Energy Data Scraper
 
 ## Overview
@@ -94,3 +95,7 @@ project/
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+=======
+# web-scraping-countries-energy-data
+ A Python web scraper using Selenium to extract global energy data from the IEA website. Collects data such as energy mix, electricity mix, CO2 emissions, and yearly statistics for countries. Saves results in a CSV file for analysis. Ideal for researchers and data enthusiasts interested in energy trends.
+>>>>>>> dc00b7e5e30115e2eff43c9cccaeb51dfc7bd48b
