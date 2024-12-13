@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Global Energy Data Scraper
 
 ## Overview
